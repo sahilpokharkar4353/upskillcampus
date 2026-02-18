@@ -39,5 +39,5 @@ Open Power BI file to explore interactive dashboard.
 
 
 
-### Sahil S. Pokharkar
+### Sahil Sanjay Pokharkar
 ### B.E. Information Technology
