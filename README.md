@@ -1,11 +1,11 @@
-### Crop Production Data Analysis
-# Overview
+# Crop Production Data Analysis
+## Overview
 
 This project analyzes crop production data using Python and Power BI to identify trends, production patterns, and relationships between area and yield.
 
 Developed as part of my Data Analytics / Data Science Internship.
 
-# Tools Used
+## Tools Used
 
 Python
 
@@ -19,7 +19,7 @@ Power BI
 
 CSV Dataset
 
-# Key Analysis
+## Key Analysis
 
 Year-wise production trend
 
@@ -31,7 +31,7 @@ Area vs Production relationship
 
 Interactive Power BI Dashboard
 
-# How to Use
+## How to Use
 
 Open crop_production.ipynb to see Python analysis.
 
@@ -39,5 +39,5 @@ Open Power BI file to explore interactive dashboard.
 
 
 
-# Sahil S. Pokharkar
-# B.E. Information Technology
+### Sahil S. Pokharkar
+### B.E. Information Technology
