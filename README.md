@@ -7,29 +7,29 @@ Developed as part of my Data Analytics / Data Science Internship.
 
 ## Tools Used
 
-Python
+1) Python
 
-Pandas
+2) Pandas
 
-Matplotlib
+3) Matplotlib
 
-Jupyter Notebook
+4) Jupyter Notebook
 
-Power BI
+5) Power BI
 
-CSV Dataset
+6) CSV Dataset
 
 ## Key Analysis
 
-Year-wise production trend
+• Year-wise production trend
 
-Crop-wise comparison
+• Crop-wise comparison
+ 
+• State-wise analysis
 
-State-wise analysis
+• Area vs Production relationship
 
-Area vs Production relationship
-
-Interactive Power BI Dashboard
+• Interactive Power BI Dashboard
 
 ## How to Use
 
